@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": "Saurabh",
+        "lastName:": "Yeggewar",
+        "patientId": "44",
+        "address": "Talodhi",
+        "city": "Thahhaha",
+        "state": "Ljajjajaja",
+        "zip": "442702",
+        "phoneNumber": "91 7057114002",
+        "email": "rabbbu1@gmail.com",
+        "blood": " AB+"
+    },
+    {
+        "firstName": "Sachin",
+        "lastName": "Bhau",
+        "patientId": "45",
+        "address": "Talodhi",
+        "city": "Mhahaha",
+        "state": "Ojajajja",
+        "zip": "442702",
+        "phoneNumber": "91 7057114002",
+        "email": "pojjja1@gmail.com",
+        "blood": "AB+"
+    },
+    {
+        "firstName": "Saurabh",
+        "lastName": "Mudrigi",
+        "patientId": "84",
+        "address": "Rechini",
+        "city": "Mancherial",
+        "state": "Telangana",
+        "zip": "505522",
+        "phoneNumber": "91 7057114002",
+        "email": "bheeraka1@gmail.com",
+        "blood": "AB+"
+    },
+    {
+        "firstName": "Shrudin",
+        "lastName": "Satheesh",
+        "patientId": "44",
+        "address": "Talodhi",
+        "city": "Poksksks",
+        "state": "Ljkkakka",
+        "zip": "442702",
+        "phoneNumber": "91 7057114002",
+        "email": "shrudin1@gmail.com",
+        "blood": "AB+",
+        "gender": "male"
+    }
+]
